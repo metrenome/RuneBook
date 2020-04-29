@@ -1,0 +1,4 @@
+owner: kitze
+repo: react-electron-example
+provider: github
+updaterCacheDirName: cra-electron-updater
