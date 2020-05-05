@@ -8,8 +8,12 @@
     "cross-env": "6.0.2",
     "electron-is-dev": "1.1.0",
     "electron-log": "^3.0.8",
+    "jquery": "^3.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.5",
     "update-electron-app": "^1.2.0"
   },
   "devDependencies": {

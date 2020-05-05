@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "RuneBook",
+  "name": "RuneBook",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
+      "src": "icon.png",
+      "sizes": "300x300",
       "type": "image/png"
     }
   ],
